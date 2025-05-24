@@ -36,7 +36,7 @@ I'm passionate about leveraging technology to turn data into meaningful insights
 
 ---
 
-## 📝 Mission Statement
+## 📝 Goal
 
 I aspire to drive innovation at the intersection of data and technology, making a positive impact through thoughtful, data-driven solutions. Always curious, always learning!
 
