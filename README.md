@@ -36,7 +36,7 @@ I'm passionate about leveraging technology to turn data into meaningful insights
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adeti%20Singh-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adeti-singh-61297b283/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adeti%20Singh-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adetisgh/)
 
 ---
 
