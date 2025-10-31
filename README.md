@@ -17,7 +17,7 @@ I'm passionate about leveraging technology to turn data into meaningful insights
 - **Languages:** C/C++, Python, SQL/Oracle, HTML, CSS, JavaScript
 - **Concepts:** Object-Oriented Programming (OOPs), Data Analysis, Machine Learning, DBMS, Computer Networking
 - **Cloud:** Microsoft Azure, Azure Synapse Analytics, Azure Data Factory
-- **Tools/Frameworks:** NumPy, Pandas, Power BI
+- **Tools/Frameworks:** NumPy, Pandas, Power BI, ServiceNow, ITSM
 
 ---
 
@@ -30,6 +30,7 @@ I'm passionate about leveraging technology to turn data into meaningful insights
   End-to-end pipeline for data processing, analysis, and visualization on Azure Cloud.
 
 - **Emotion Based Music Recommendation System:**
+
   Developed a web application to recommend songs based on user’s emotions.
 
 ---
